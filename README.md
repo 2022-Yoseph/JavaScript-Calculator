@@ -1,4 +1,4 @@
-## ✅ Project 2: `JavaScript Calculator`
+## ✅ Project : `JavaScript Calculator`
 
 ### 📘 `README.md`
 
