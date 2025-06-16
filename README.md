@@ -35,7 +35,7 @@ A fully functional calculator built with React that performs basic arithmetic op
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/javascript-calculator.git
+git clone https://github.com/2022-Yoseph/JavaScript-Calculator.git
 cd javascript-calculator
 ````
 
